@@ -3,7 +3,7 @@
 Predict whether a bank customer will subscribe to a term deposit after a marketing campaign.
 
 ## 📂 Dataset
-- **Bank Marketing Dataset** (UCI ML Repository)
+- **Bank Marketing Dataset** 
 
 ## 🛠️ Approach
 - Load and preprocess dataset
